@@ -1,2 +1,2 @@
 # Random-Buttons
-A website with random buttons.
+A website with random buttons
